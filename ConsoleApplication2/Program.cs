@@ -10,14 +10,15 @@ namespace ConsoleApplication2
     {
         private static int cos;
         private static char cos2;
+        private static int cos3;
         private static object dosc;
 
         static void Main(string[] args)
         {
             cos = 1;
           cos2 = dosc;
-      
-          
+
+            cos3 = 5;
            
         }
     }
