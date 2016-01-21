@@ -11,16 +11,15 @@ namespace ConsoleApplication2
         private static int cos;
         private static int cos1;
         private static int cos2;
-        private static int cos3;
-        private static int cos4;
+     
 
         static void Main(string[] args)
         {
             cos = 1;
             cos1 = 2;
             cos2 = 3;
-            cos3 = 4;
-            cos4 = 5;
+          
+           
         }
     }
 }
