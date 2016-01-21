@@ -9,14 +9,14 @@ namespace ConsoleApplication2
     class Program
     {
         private static int cos;
-        private static int cos1;
+       
     
      
 
         static void Main(string[] args)
         {
             cos = 1;
-            cos1 = 2;
+          
       
           
            
